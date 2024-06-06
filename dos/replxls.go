@@ -3,7 +3,7 @@
 // Excel attachments base64 encoded within Mex XML e-invoices
 package main
 
-import "bar8tl/p/replxls/rb"
+import rb "bar8tl/p/replxls"
 import "fmt"
 import "os"
 import "regexp"

@@ -1,5 +1,5 @@
 // replxls.go [2012-11-08 BAR8TL]
-// Perform the process to build and to include Excel attachments (base64 coded) 
+// Perform the process to build and to include Excel attachments (base64 coded)
 // within Mex XML Invoices
 package rb
 

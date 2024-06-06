@@ -1,6 +1,4 @@
-cd c:\rbhome\go\src\bar8tl\p\
-md replxls
-cd replxls
-copy c:\c_portab\01_rb\_desa_documents\pgmng\go\proj\go-replxls\pkg\replxls.go .
+cd c:\rbhome\go\src\bar8tl\p\replxls
+copy c:\users\bar8tl\onedri~1\c-portab\_develop\replxls-go\pkg\replxls.go .
 go install
 pause
